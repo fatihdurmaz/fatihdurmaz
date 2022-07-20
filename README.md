@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [yuumamobile.com](yuumamobile.com)
 
-- 💬 Ask me about **laravel,asp.net core,react js,ionic,react native**
+- 💬 Ask me about **laravel,asp.net core,react js,ionic,flutter**
 
 - 📫 How to reach me **fatih.durmaz@outlook.com**
 
